@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA2OVNDQZQN4PLA33H"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 variable "prefix" {
