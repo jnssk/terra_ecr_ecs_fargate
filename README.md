@@ -1,0 +1,1 @@
+# terra_ecr_ecs_fargate
