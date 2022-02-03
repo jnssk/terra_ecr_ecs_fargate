@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "add you keys"
-  secret_key = "add you keys"
+  access_key = "please provide you keys"
+  secret_key = "please provide you keys"
 }
 
 variable "prefix" {
